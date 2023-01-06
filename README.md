@@ -8,7 +8,13 @@ I wanted a tiny image that would run with zero dependencies other than a contain
 
 ## Build as a Docker container
 
+Either
+
 `$ docker build -t uuid .`
+
+or
+
+`$ docker pull monch1962/uuid`
 
 ## Run
 
